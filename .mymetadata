@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JspSinaEditor"
+  id="myeclipse.1277695393781"
+  context-root="/JspSinaEditor"
+  j2ee-spec="5.0"
+  archive="JspSinaEditor.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
